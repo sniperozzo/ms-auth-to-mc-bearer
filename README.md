@@ -12,5 +12,5 @@ print(bearer_token)
 ```
 When executing it (if you put working credentials ofc) you will get the Minecraft Bearer token of that account which lasts for 24 hours.
 ## ??
-I don't know why people should need this since it's literally Xbox's API Wrapper code with just some changes to the requests to make it work for Minecraft,
+I don't know why people should need this since it's literally [Xbox's API Wrapper](https://github.com/joealcorn/xbox) code with just some changes to the requests to make it work for Minecraft,
 but if you need it feel free to use it 
