@@ -11,7 +11,8 @@ except ImportError:  # py 3.x
 import requests
 
 
-# Literally Xbox's API Wrapper code changed just some requests
+# Literally Xbox's API Wrapper code changed just some requests, there is probably some stuff you don't need and can remove, the real version 
+# I made of ms-auth-to-ms-bearer is written in C so forgive me if I left some dumb useless code below
 
 class Client(object):
 
